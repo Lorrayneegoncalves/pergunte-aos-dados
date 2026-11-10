@@ -2,7 +2,7 @@
 
 Um app em Python em que a pessoa faz uma pergunta em português sobre preços de combustíveis (dados abertos da ANP). Um modelo de linguagem escreve a consulta SQL, o app valida a consulta, roda numa cópia do banco só para leitura e mostra a consulta, o resultado e uma explicação curta.
 
-**Demo:** não publicada (o app roda localmente, veja "Como rodar")  ·  **Vídeo de demonstração (1 min):** [assistir no Youtube](https://youtu.be/tc9pxCheKV8))
+**Demo:** não publicada (o app roda localmente, veja "Como rodar")  ·  **Vídeo de demonstração (1 min):** [assistir no Youtube](https://youtu.be/tc9pxCheKV8)
 
 ![Pergunta respondida: consulta SQL validada e resultado](imagens/tela.png)
 
